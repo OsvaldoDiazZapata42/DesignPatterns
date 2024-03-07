@@ -1,0 +1,20 @@
+Concepts
+-Only once instance created
+-Guarantees control of a resource
+-Lazily loaded
+-Examples
+	Runtime
+	logger
+	Spring Beans
+	graphic Managers
+
+
+Design
+-Class is responsible for lifecycle
+-Static in nature
+-Needs to be Thread safe
+-Private Instance
+-Private Contructor
+-No parameters required for construccion
+
+

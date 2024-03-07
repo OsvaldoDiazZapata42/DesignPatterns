@@ -1,0 +1,9 @@
+Concepts
+- There are not Setters for the attributes, thats why those elements are immutable
+- There is an static class Builder, which emulates all the elements or the class
+- The "add" methods, always will return the same instance and the build() method will return the constructor of
+the immutable instance. 
+
+
+
+https://www.baeldung.com/java-immutable-object

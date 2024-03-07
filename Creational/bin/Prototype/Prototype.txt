@@ -1,0 +1,4 @@
+Concepts
+- There is a Registry class which works as a instance creator
+- We are implementing the interface Cloneable
+- It is possible to make a superficial clone and a deep clone of the instances
